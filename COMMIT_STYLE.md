@@ -32,12 +32,7 @@ For more information on how to properly use them, see the above paragraphs.
  * `lang:` - everything in the `po` directory.
  * `tests:` - everything in the `tests` directory, as well as the `run-tests` script.
  * `widgets:` - everything in the `widgets` directory.
-
  * `data:` - used for everything in the `data` directory, except for the stylesheets. **This is used very rarely**; if you're adding a config option, it's better to simply include the config option addition alongside other changes you're making.
  * `stylesheets:` - everything in the `data/stylesheets` directory.
 
- * `launcher:` - everything in the `src/launcher` directory.
-   * The submodule is derived from the name of the file you're working on, but with underscores (`_`) replaced with dashes (`-`). There are a few notable exceptions:
-     * Commits to `launcher_boxes.py` are split into `launcher: widget-box:` and `launcher: clock-box:` based on which object you're modifying.
- * `widget-backend:` - everything in the `src/widgets` directory.
- * `utils:` - everything in the `src/utils` directory.
+In addition, each project has its own modules/submodules; see the respective COMMIT_STYLE.md files in those repositories for more information.
