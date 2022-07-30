@@ -17,6 +17,10 @@ Please make sure to include the following in your bug report:
 
 Take a look at [our bug tracker](https://github.com/aspinwall-ui/aspinwall/issues). Issues marked with [good first issue](https://github.com/aspinwall-ui/aspinwall/labels/good%20first%20issue) are a good starting point.
 
+## Submitting patches
+
+To submit a patch, fork the component's repository on GitHub and submit a pull request. Remember to respect the [Coding style](CODING_STYLE.md) and [Commit style](COMMIT_STYLE.md)
+
 ## Contributing translations
 
 We use [Hosted Weblate](https://hosted.weblate.org/projects/aspinwall-ui/) to manage translations. Built-in widget translations are split to their own sub-components; the main shell and launcher translation can be found in the [Aspinwall Shell](https://hosted.weblate.org/projects/aspinwall-ui/aspinwall-shell/) component.
