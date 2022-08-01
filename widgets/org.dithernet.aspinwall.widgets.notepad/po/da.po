@@ -1,0 +1,29 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the org.dithernet.aspinwall.widgets.notepad package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: org.dithernet.aspinwall.widgets.notepad\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-18 17:10+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: widgets/org.dithernet.aspinwall.widgets.notepad/notepad.py:11
+msgid "Notepad"
+msgstr ""
+
+#: widgets/org.dithernet.aspinwall.widgets.notepad/notepad.py:13
+msgid "Simple notepad widget"
+msgstr ""
+
+#: widgets/org.dithernet.aspinwall.widgets.notepad/notepad.py:15
+msgid "notes,todo,to do,list"
+msgstr ""
