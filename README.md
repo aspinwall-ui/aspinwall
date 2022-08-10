@@ -18,6 +18,11 @@ Aspinwall is a Linux interface for tablets and touchscreen devices. It offers:
 
 Currently, the project isn't available in any repositories; each component has to be compiled manually. The README files in each component's repository explain the process.
 
+The two main components of the shell are:
+
+- [Aspinwall Launcher](https://github.com/aspinwall-ui/aspinwall-launcher)
+- [Aspinwall Shell](https://github.com/aspinwall-ui/aspinwall-shell)
+
 We're planning to add guides for running Aspinwall as soon as it's easily possible.
 
 ## Contributing
