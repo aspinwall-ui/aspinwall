@@ -6,7 +6,6 @@ The Aspinwall coding style differs somewhat from standard coding conventions. Th
 
 Aspinwall's code follows a handful of coding conventions, some of which differ from standard ones.
 
- * **Tabs are used for indentation.** This applies both to Python code and GtkTemplate .ui files.
  * **Try to keep lines in the code below 80 characters.** The absolute maximum is **100 characters**.
    * If the line contains a string, move the string to a separate line (see "Splitting lines" below) and add `# noqa: E501` at the end of the line.
    * This rule does not apply to GtkTemplate .ui files; they are allowed to go over 80 lines.
